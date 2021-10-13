@@ -1,3 +1,5 @@
+Crimson Society
+
 In this challenge participants are tasked with uncovering a flag hidden in one of the images along the way, participants will apply basic steganography and cryptography skills in order to reach the flag. some of the images will have hidden data that act as clues or so that participants know what to do.
 
 1.	Participants are given 4 images, first we reverse image search the image in order to find the original image which will allow us to determine which of the images are edited through viewing and comparing MD5 hashes.
